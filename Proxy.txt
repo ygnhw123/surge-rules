@@ -1,0 +1,224 @@
+# TLD
+DOMAIN-SUFFIX , hk
+DOMAIN-SUFFIX , tw
+DOMAIN-SUFFIX , sg
+DOMAIN-SUFFIX , jp
+DOMAIN-SUFFIX , us
+DOMAIN-SUFFIX , eu
+
+# Google
+DOMAIN-SUFFIX  , g.co
+DOMAIN-SUFFIX  , yt.be
+DOMAIN-SUFFIX  , abc.xyz
+DOMAIN-SUFFIX  , gvt1.com
+DOMAIN-SUFFIX  , gvt2.com
+DOMAIN-SUFFIX  , gvt3.com
+DOMAIN-SUFFIX  , pki.goog
+DOMAIN-SUFFIX  , youtu.be
+DOMAIN-SUFFIX  , godoc.org
+DOMAIN-SUFFIX  , ytimg.com
+DOMAIN-SUFFIX  , ggpht.com
+DOMAIN-SUFFIX  , gmail.com
+DOMAIN-SUFFIX  , golang.org
+DOMAIN-SUFFIX  , chrome.com
+DOMAIN-SUFFIX  , google.com
+DOMAIN-SUFFIX  , youtube.com
+DOMAIN-SUFFIX  , gstatic.com
+DOMAIN-SUFFIX  , android.com
+DOMAIN-SUFFIX  , chromium.org
+DOMAIN-SUFFIX  , gmodules.com
+DOMAIN-SUFFIX  , recaptcha.com
+DOMAIN-SUFFIX  , recaptcha.net
+DOMAIN-SUFFIX  , androidify.com
+DOMAIN-SUFFIX  , googleapis.com
+DOMAIN-SUFFIX  , googlevideo.com
+DOMAIN-SUFFIX  , googlesyndication.com
+DOMAIN-SUFFIX  , googleusercontent.com
+DOMAIN-KEYWORD , gmail
+DOMAIN-KEYWORD , google
+DOMAIN-KEYWORD , youtube
+
+# Microsoft
+DOMAIN-SUFFIX  , gfx.ms
+DOMAIN-SUFFIX  , svc.ms
+DOMAIN-SUFFIX  , live.com
+DOMAIN-SUFFIX  , live.net
+DOMAIN-SUFFIX  , bing.com
+DOMAIN-SUFFIX  , 1drv.com
+DOMAIN-SUFFIX  , symcd.com
+DOMAIN-SUFFIX  , azure.com
+DOMAIN-SUFFIX  , skype.com
+DOMAIN-SUFFIX  , trouter.io
+DOMAIN-SUFFIX  , msedge.net
+DOMAIN-SUFFIX  , msecnd.com
+DOMAIN-SUFFIX  , msecnd.net
+DOMAIN-SUFFIX  , office.com
+DOMAIN-SUFFIX  , office.net
+DOMAIN-SUFFIX  , msocdn.com
+DOMAIN-SUFFIX  , onestore.ms
+DOMAIN-SUFFIX  , windows.com
+DOMAIN-SUFFIX  , hotmail.com
+DOMAIN-SUFFIX  , outlook.com
+DOMAIN-SUFFIX  , windows.net
+DOMAIN-SUFFIX  , appcenter.ms
+DOMAIN-SUFFIX  , evernote.com
+DOMAIN-SUFFIX  , xboxlive.com
+DOMAIN-SUFFIX  , office365.com
+DOMAIN-SUFFIX  , microsoft.com
+DOMAIN-SUFFIX  , aspnetcdn.com
+DOMAIN-SUFFIX  , optimizely.com
+DOMAIN-SUFFIX  , sharepoint.com
+DOMAIN-SUFFIX  , skypeassets.com
+DOMAIN-SUFFIX  , visualstudio.com
+DOMAIN-SUFFIX  , windowsupdate.com
+DOMAIN-SUFFIX  , sharepointonline.com
+DOMAIN-KEYWORD , azure
+DOMAIN-KEYWORD , office
+DOMAIN-KEYWORD , outlook
+DOMAIN-KEYWORD , microsoft
+DOMAIN-KEYWORD , visualstudio
+
+# Paypal
+DOMAIN-SUFFIX  , tapad.com
+DOMAIN-SUFFIX  , paypal.com
+DOMAIN-SUFFIX  , ensighten.com
+DOMAIN-SUFFIX  , myvisualiq.net
+DOMAIN-SUFFIX  , paypalobjects.com
+DOMAIN-KEYWORD , paypal
+
+# Amazon
+DOMAIN-SUFFIX  , amazonaws.com
+DOMAIN-SUFFIX  , cloudfront.com
+DOMAIN-SUFFIX  , cloudfront.net
+DOMAIN-KEYWORD , amazon
+DOMAIN-KEYWORD , cloudfront
+
+# Facebook
+DOMAIN-SUFFIX  , fb.me
+DOMAIN-SUFFIX  , fb.com
+DOMAIN-SUFFIX  , fbcdn.com
+DOMAIN-SUFFIX  , fbcdn.net
+DOMAIN-SUFFIX  , facebook.com
+DOMAIN-SUFFIX  , instagram.com
+DOMAIN-KEYWORD , facebook
+DOMAIN-KEYWORD , instagram
+
+# Twitter
+DOMAIN-SUFFIX  , t.co
+DOMAIN-SUFFIX  , twimg.com
+DOMAIN-SUFFIX  , twitter.com
+DOMAIN-KEYWORD , twitter
+
+# Github
+DOMAIN-SUFFIX  , github.com
+DOMAIN-SUFFIX  , githubusercontent.com
+DOMAIN-KEYWORD , github
+
+# Telegram
+IP-CIDR        , 91.108.4.0/22        , no-resolve
+IP-CIDR        , 91.108.8.0/22        , no-resolve
+IP-CIDR        , 91.108.12.0/22       , no-resolve
+IP-CIDR        , 91.108.16.0/22       , no-resolve
+IP-CIDR        , 91.108.20.0/22       , no-resolve
+IP-CIDR        , 91.108.56.0/22       , no-resolve
+IP-CIDR        , 91.105.192.0/23      , no-resolve
+IP-CIDR        , 149.154.160.0/20     , no-resolve
+IP-CIDR        , 185.76.151.0/24      , no-resolve
+DOMAIN-SUFFIX  , t.me
+DOMAIN-SUFFIX  , telegram.me
+DOMAIN-SUFFIX  , telegram.net
+DOMAIN-SUFFIX  , telegram.org
+DOMAIN-SUFFIX  , telegram.com
+DOMAIN-SUFFIX  , telegram.space
+DOMAIN-SUFFIX  , telegramdownload.com
+DOMAIN-KEYWORD , telegram
+
+# Whatsapp
+DOMAIN-SUFFIX  , whatsapp.net
+DOMAIN-SUFFIX  , whatsapp.org
+DOMAIN-SUFFIX  , whatsapp.com
+DOMAIN-SUFFIX  , whatsapp.space
+DOMAIN-KEYWORD , whatsapp
+
+# Akamai
+DOMAIN-SUFFIX  , akadns.net
+DOMAIN-SUFFIX  , akamai.com
+DOMAIN-SUFFIX  , akamai.net
+DOMAIN-SUFFIX  , akamaihd.net
+DOMAIN-SUFFIX  , akamaized.net
+DOMAIN-SUFFIX  , akamai-staging.net
+DOMAIN-KEYWORD , akamai
+
+# Cloudflare
+DOMAIN-SUFFIX  , cloudflare.com
+DOMAIN-KEYWORD , cloudflare
+
+# Sourceforge
+DOMAIN-SUFFIX  , sourceforge.com
+DOMAIN-SUFFIX  , sourceforge.net
+DOMAIN-KEYWORD , sourveforge
+
+# Wikepedia
+DOMAIN-SUFFIX  , wikipedia.org
+DOMAIN-SUFFIX  , wikimedia.org
+DOMAIN-KEYWORD , wiki
+
+# Quora
+DOMAIN-SUFFIX  , quora.net
+DOMAIN-SUFFIX  , quora.com
+DOMAIN-SUFFIX  , quoracdn.net
+DOMAIN-SUFFIX  , quoracdn.com
+DOMAIN-KEYWORD , quora
+
+# Stackoverflow
+DOMAIN-SUFFIX  , sstatic.net
+DOMAIN-KEYWORD , stackoverflow
+
+# Dropbox
+DOMAIN-SUFFIX  , dropbox.com
+DOMAIN-SUFFIX  , dropboxstatic.com
+DOMAIN-SUFFIX  , dropboxforum.com
+DOMAIN-KEYWORD , dropbox
+
+# Nextcloud
+DOMAIN-SUFFIX  , nextcloud.org
+DOMAIN-SUFFIX  , nextcloud.com
+DOMAIN-KEYWORD , nextcloud
+
+# Firefox
+DOMAIN-SUFFIX  , firefox.com
+DOMAIN-SUFFIX  , mozilla.com
+DOMAIN-KEYWORD , firefox
+DOMAIN-KEYWORD , mozilla
+
+# Battle
+DOMAIN-SUFFIX  , battle.com   
+DOMAIN-SUFFIX  , battle.net   
+DOMAIN-SUFFIX  , blizzard.com 
+DOMAIN-SUFFIX  , blzstatic.com
+DOMAIN-KEYWORD , blizzard     
+
+# Steam
+DOMAIN-SUFFIX  , gvt1.com        
+DOMAIN-SUFFIX  , dota2.com       
+DOMAIN-SUFFIX  , steam-chat.com  
+DOMAIN-SUFFIX  , steamstatic.com 
+DOMAIN-SUFFIX  , steampowered.com
+DOMAIN-SUFFIX  , steamcontent.com
+DOMAIN-KEYWORD , steam           
+
+# Other
+DOMAIN-SUFFIX , fast.com
+DOMAIN-SUFFIX , v2ex.com
+DOMAIN-SUFFIX , vultr.com
+DOMAIN-SUFFIX , trello.com
+DOMAIN-SUFFIX , medium.com
+DOMAIN-SUFFIX , linode.com
+DOMAIN-SUFFIX , hostloc.com
+DOMAIN-SUFFIX , namesilo.com
+DOMAIN-SUFFIX , alfredapp.com
+DOMAIN-SUFFIX , speedtest.net
+DOMAIN-SUFFIX , iliuyuyang.com
+DOMAIN-SUFFIX , doubleclick.net
+DOMAIN-SUFFIX , letsencrypt.org
+DOMAIN-SUFFIX , adblockplus.org

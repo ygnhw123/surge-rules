@@ -1,0 +1,256 @@
+# TLD
+DOMAIN-SUFFIX , cn
+
+# Apple
+DOMAIN-SUFFIX  , me.com
+DOMAIN-SUFFIX  , apple.com
+DOMAIN-SUFFIX  , itunes.com
+DOMAIN-SUFFIX  , icloud.com
+DOMAIN-SUFFIX  , aaplimg.com
+DOMAIN-SUFFIX  , appstore.com
+DOMAIN-SUFFIX  , mzstatic.com
+DOMAIN-SUFFIX  , cdn-apple.com
+DOMAIN-SUFFIX  , apple-mapkit.com
+DOMAIN-KEYWORD , apple
+DOMAIN-KEYWORD , itunes
+DOMAIN-KEYWORD , icloud
+DOMAIN-KEYWORD , appstore
+DOMAIN-KEYWORD , mzstatic
+
+# Alibaba
+DOMAIN-SUFFIX  , tanx.com
+DOMAIN-SUFFIX  , tbcdn.cn
+DOMAIN-SUFFIX  , 1688.com
+DOMAIN-SUFFIX  , etao.com
+DOMAIN-SUFFIX  , tmall.com
+DOMAIN-SUFFIX  , tbcdn.com
+DOMAIN-SUFFIX  , xiami.com
+DOMAIN-SUFFIX  , xiami.net
+DOMAIN-SUFFIX  , hupan.com
+DOMAIN-SUFFIX  , fliggy.com
+DOMAIN-SUFFIX  , taobao.com
+DOMAIN-SUFFIX  , mmstat.com
+DOMAIN-SUFFIX  , aliyun.com
+DOMAIN-SUFFIX  , alicdn.com
+DOMAIN-SUFFIX  , aliapp.org
+DOMAIN-SUFFIX  , alipay.com
+DOMAIN-SUFFIX  , alibaba.com
+DOMAIN-SUFFIX  , dingtalk.com
+DOMAIN-SUFFIX  , aliyuncs.com
+DOMAIN-SUFFIX  , taobaocdn.com
+DOMAIN-SUFFIX  , alibabacloud.com
+DOMAIN-SUFFIX  , alipayobjects.com
+DOMAIN-KEYWORD , taobao
+DOMAIN-KEYWORD , alibaba
+DOMAIN-KEYWORD , dingding
+
+# Tencent
+DOMAIN-SUFFIX  , qq.com
+DOMAIN-SUFFIX  , qlogo.cn
+DOMAIN-SUFFIX  , gtimg.com
+DOMAIN-SUFFIX  , dnspod.com
+DOMAIN-SUFFIX  , qcloud.com
+DOMAIN-SUFFIX  , weixin.com
+DOMAIN-SUFFIX  , qqmail.com
+DOMAIN-SUFFIX  , weiyun.com
+DOMAIN-SUFFIX  , tenpay.com
+DOMAIN-SUFFIX  , discuz.net
+DOMAIN-SUFFIX  , tencent.com
+DOMAIN-SUFFIX  , cdntips.net
+DOMAIN-SUFFIX  , myqcloud.com
+DOMAIN-SUFFIX  , qcloudcdn.com
+DOMAIN-SUFFIX  , servicewechat.com
+DOMAIN-SUFFIX  , tencent-cloud.net
+DOMAIN-KEYWORD , dnspod
+DOMAIN-KEYWORD , qcloud
+DOMAIN-KEYWORD , weixin
+DOMAIN-KEYWORD , wechat
+DOMAIN-KEYWORD , tencent
+
+# Baidu
+DOMAIN-SUFFIX  , baidu.com
+DOMAIN-SUFFIX  , bdimg.com
+DOMAIN-SUFFIX  , tieba.com
+DOMAIN-SUFFIX  , shifen.com
+DOMAIN-SUFFIX  , baixing.com
+DOMAIN-SUFFIX  , bdstatic.com
+DOMAIN-SUFFIX  , tiebaimg.com
+DOMAIN-KEYWORD , baidu
+
+# Netease
+DOMAIN-SUFFIX , 163.com
+DOMAIN-SUFFIX , 126.com
+DOMAIN-SUFFIX , 126.net
+DOMAIN-SUFFIX , 127.net
+DOMAIN-SUFFIX , youdao.com
+DOMAIN-SUFFIX , netease.com
+DOMAIN-SUFFIX , ydstatic.com
+
+# Xiaomi
+DOMAIN-SUFFIX  , mi.com
+DOMAIN-SUFFIX  , mi.net
+DOMAIN-SUFFIX  , miui.com
+DOMAIN-SUFFIX  , miui.net
+DOMAIN-SUFFIX  , xiaomi.com
+DOMAIN-SUFFIX  , xiaomi.net
+DOMAIN-KEYWORD , miui
+DOMAIN-KEYWORD , xiaomi
+
+# Acfun
+DOMAIN-SUFFIX  , acfun.cn
+DOMAIN-SUFFIX  , acfun.com
+DOMAIN-SUFFIX  , xiatou.com
+DOMAIN-SUFFIX  , aixifan.com
+DOMAIN-KEYWORD , acfun
+
+# Bilibili
+DOMAIN-SUFFIX  , hdslb.com
+DOMAIN-SUFFIX  , biliapi.com
+DOMAIN-SUFFIX  , biliapi.net
+DOMAIN-SUFFIX  , bilibili.tv
+DOMAIN-SUFFIX  , bilibili.com
+DOMAIN-SUFFIX  , biligame.com
+DOMAIN-SUFFIX  , biligame.net
+DOMAIN-SUFFIX  , bilivideo.com
+DOMAIN-SUFFIX  , acgvideo.com
+DOMAIN-KEYWORD , bilibili
+
+# Zhihu
+DOMAIN-SUFFIX  , zhihu.com
+DOMAIN-SUFFIX  , zhimg.com
+DOMAIN-SUFFIX  , vzuu.com
+DOMAIN-KEYWORD , zhihu
+
+# JD
+DOMAIN-SUFFIX , jd.com
+DOMAIN-SUFFIX , jdpay.com
+DOMAIN-SUFFIX , 360buyimg.com
+
+# PDD
+DOMAIN-SUFFIX  , pddpic.com
+DOMAIN-SUFFIX  , pinduoduo.com
+DOMAIN-KEYWORD , pinduoduo
+
+# Weibo
+DOMAIN-SUFFIX  , weico.cc
+DOMAIN-SUFFIX  , weibo.cn
+DOMAIN-SUFFIX  , sina.com
+DOMAIN-SUFFIX  , weibo.com
+DOMAIN-SUFFIX  , sinaimg.cn
+DOMAIN-SUFFIX  , sinaimg.com
+DOMAIN-SUFFIX  , sinaapp.com
+DOMAIN-SUFFIX  , weibocdn.com
+DOMAIN-KEYWORD , sina
+DOMAIN-KEYWORD , weibo
+
+# CMCC
+DOMAIN-SUFFIX  , 10086.cn
+DOMAIN-SUFFIX  , 10086.com
+DOMAIN-SUFFIX  , cmvideo.cn
+DOMAIN-SUFFIX  , komect.com
+DOMAIN-SUFFIX  , miguvideo.com
+DOMAIN-SUFFIX  , cmpassport.com
+DOMAIN-SUFFIX  , chinamobile.com
+DOMAIN-KEYWORD , migu
+DOMAIN-KEYWORD , cmcc
+DOMAIN-KEYWORD , 10086
+DOMAIN-KEYWORD , chinamobile
+
+# CT
+DOMAIN-SUFFIX  , 189.cn
+DOMAIN-SUFFIX  , 189.com
+DOMAIN-SUFFIX  , tv189.cn
+DOMAIN-SUFFIX  , ctyun.cn
+DOMAIN-SUFFIX  , tv189.com
+DOMAIN-SUFFIX  , ctyun.com
+DOMAIN-SUFFIX  , ctclouds.com
+DOMAIN-KEYWORD , tv189
+DOMAIN-KEYWORD , ctyun
+DOMAIN-KEYWORD , ctclouds
+
+# CU
+DOMAIN-SUFFIX  , mob.com
+DOMAIN-SUFFIX  , 10010.cn
+DOMAIN-SUFFIX  , 10010.com
+DOMAIN-SUFFIX  , chinaunicom.cn
+DOMAIN-KEYWORD , 10010
+DOMAIN-KEYWORD , chinaunicom
+
+# Meituan
+DOMAIN-SUFFIX  , sankuai.com
+DOMAIN-SUFFIX  , meituan.com
+DOMAIN-SUFFIX  , meituan.net
+DOMAIN-SUFFIX  , dianping.com
+DOMAIN-SUFFIX  , dianping.net
+DOMAIN-KEYWORD , meituan
+DOMAIN-KEYWORD , dianping
+
+# Ctrip
+DOMAIN-SUFFIX  , ctrip.com
+DOMAIN-SUFFIX  , tripcdn.cn
+DOMAIN-SUFFIX  , c-ctrip.com
+DOMAIN-KEYWORD , ctrip
+
+# Other
+DOMAIN-SUFFIX , ele.me
+DOMAIN-SUFFIX , bosc.cn
+DOMAIN-SUFFIX , xsx.net
+DOMAIN-SUFFIX , srcb.com
+DOMAIN-SUFFIX , ipip.net
+DOMAIN-SUFFIX , sohu.com
+DOMAIN-SUFFIX , amap.com
+DOMAIN-SUFFIX , 12306.cn
+DOMAIN-SUFFIX , youku.com
+DOMAIN-SUFFIX , sspai.com
+DOMAIN-SUFFIX , gaode.com
+DOMAIN-SUFFIX , amemv.com
+DOMAIN-SUFFIX , offcn.com
+DOMAIN-SUFFIX , umeng.com
+DOMAIN-SUFFIX , wdjky.com
+DOMAIN-SUFFIX , getui.net
+DOMAIN-SUFFIX , getui.com
+DOMAIN-SUFFIX , fenbi.com
+DOMAIN-SUFFIX , ip138.com
+DOMAIN-SUFFIX , ddxq.mobi
+DOMAIN-SUFFIX , ddimg.mobi
+DOMAIN-SUFFIX , bytecdn.cn
+DOMAIN-SUFFIX , yximgs.com
+DOMAIN-SUFFIX , snssdk.com
+DOMAIN-SUFFIX , qidian.com
+DOMAIN-SUFFIX , aiqiyi.com
+DOMAIN-SUFFIX , douban.com
+DOMAIN-SUFFIX , huawei.com
+DOMAIN-SUFFIX , eoffcn.com
+DOMAIN-SUFFIX , mincdn.com
+DOMAIN-SUFFIX , inkuai.com
+DOMAIN-SUFFIX , ixigua.com
+DOMAIN-SUFFIX , pstatp.com
+DOMAIN-SUFFIX , douyin.com
+DOMAIN-SUFFIX , tiktok.com
+DOMAIN-SUFFIX , ssscdn.com
+DOMAIN-SUFFIX , dutils.com
+DOMAIN-SUFFIX , icbc.com.cn
+DOMAIN-SUFFIX , spdb.com.cn
+DOMAIN-SUFFIX , qiniudn.com
+DOMAIN-SUFFIX , baishan.com
+DOMAIN-SUFFIX , eshimin.com
+DOMAIN-SUFFIX , toutiao.com
+DOMAIN-SUFFIX , huoshan.com
+DOMAIN-SUFFIX , gifshow.com
+DOMAIN-SUFFIX , bankcomm.com
+DOMAIN-SUFFIX , miaozhen.com
+DOMAIN-SUFFIX , doubanio.com
+DOMAIN-SUFFIX , gamersky.com
+DOMAIN-SUFFIX , kuaishou.com
+DOMAIN-SUFFIX , youai123.com
+DOMAIN-SUFFIX , elemecdn.com
+DOMAIN-SUFFIX , iesdouyin.com
+DOMAIN-SUFFIX , ctobsnssdk.com
+DOMAIN-SUFFIX , ampproject.com
+DOMAIN-SUFFIX , ampproject.org
+DOMAIN-SUFFIX , ixiguavideo.com
+
+# PrivateIP
+IP-CIDR , 10.0.0.0/8     , no-resolve
+IP-CIDR , 172.16.0.0/12  , no-resolve
+IP-CIDR , 192.168.0.0/16 , no-resolve
