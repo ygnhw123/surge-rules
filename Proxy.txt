@@ -60,6 +60,7 @@ DOMAIN-SUFFIX  , windows.com
 DOMAIN-SUFFIX  , hotmail.com
 DOMAIN-SUFFIX  , outlook.com
 DOMAIN-SUFFIX  , windows.net
+DOMAIN-SUFFIX  , onedrive.com
 DOMAIN-SUFFIX  , appcenter.ms
 DOMAIN-SUFFIX  , evernote.com
 DOMAIN-SUFFIX  , xboxlive.com
@@ -75,6 +76,7 @@ DOMAIN-SUFFIX  , sharepointonline.com
 DOMAIN-KEYWORD , azure
 DOMAIN-KEYWORD , office
 DOMAIN-KEYWORD , outlook
+DOMAIN-KEYWORD , onedrive
 DOMAIN-KEYWORD , microsoft
 DOMAIN-KEYWORD , visualstudio
 
@@ -211,10 +213,13 @@ DOMAIN-KEYWORD , steam
 DOMAIN-SUFFIX , fast.com
 DOMAIN-SUFFIX , v2ex.com
 DOMAIN-SUFFIX , vultr.com
+DOMAIN-SUFFIX , nginx.org
 DOMAIN-SUFFIX , trello.com
 DOMAIN-SUFFIX , medium.com
 DOMAIN-SUFFIX , linode.com
+DOMAIN-SUFFIX , sectigo.com
 DOMAIN-SUFFIX , hostloc.com
+DOMAIN-SUFFIX , digicert.com
 DOMAIN-SUFFIX , namesilo.com
 DOMAIN-SUFFIX , alfredapp.com
 DOMAIN-SUFFIX , speedtest.net
@@ -222,3 +227,4 @@ DOMAIN-SUFFIX , iliuyuyang.com
 DOMAIN-SUFFIX , doubleclick.net
 DOMAIN-SUFFIX , letsencrypt.org
 DOMAIN-SUFFIX , adblockplus.org
+DOMAIN-SUFFIX , bettertouchtool.net

@@ -18,6 +18,9 @@ DOMAIN-KEYWORD , appstore
 DOMAIN-KEYWORD , mzstatic
 
 # Alibaba
+USER-AGENT     , Alipay*
+USER-AGENT     , %E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
+USER-AGENT     , %E9%A3%9E%E7%8C%AA%E6%97%85%E8%A1%8C*
 DOMAIN-SUFFIX  , tanx.com
 DOMAIN-SUFFIX  , tbcdn.cn
 DOMAIN-SUFFIX  , 1688.com
@@ -37,14 +40,18 @@ DOMAIN-SUFFIX  , alipay.com
 DOMAIN-SUFFIX  , alibaba.com
 DOMAIN-SUFFIX  , dingtalk.com
 DOMAIN-SUFFIX  , aliyuncs.com
+DOMAIN-SUFFIX  , alipaylog.com
 DOMAIN-SUFFIX  , taobaocdn.com
 DOMAIN-SUFFIX  , alibabacloud.com
 DOMAIN-SUFFIX  , alipayobjects.com
+DOMAIN-KEYWORD , tmall
 DOMAIN-KEYWORD , taobao
 DOMAIN-KEYWORD , alibaba
 DOMAIN-KEYWORD , dingding
 
 # Tencent
+USER-AGENT     , WeChat*
+USER-AGENT     , MicroMessenger*
 DOMAIN-SUFFIX  , qq.com
 DOMAIN-SUFFIX  , qlogo.cn
 DOMAIN-SUFFIX  , gtimg.com
@@ -68,9 +75,11 @@ DOMAIN-KEYWORD , wechat
 DOMAIN-KEYWORD , tencent
 
 # Baidu
+USER-AGENT     , %E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE*
 DOMAIN-SUFFIX  , baidu.com
 DOMAIN-SUFFIX  , bdimg.com
 DOMAIN-SUFFIX  , tieba.com
+DOMAIN-SUFFIX  , bcebos.com
 DOMAIN-SUFFIX  , shifen.com
 DOMAIN-SUFFIX  , baixing.com
 DOMAIN-SUFFIX  , bdstatic.com
@@ -122,6 +131,8 @@ DOMAIN-SUFFIX  , vzuu.com
 DOMAIN-KEYWORD , zhihu
 
 # JD
+USER-AGENT    , JD4iPhone*
+USER-AGENT    , jdmall;iphone;version*
 DOMAIN-SUFFIX , jd.com
 DOMAIN-SUFFIX , jdpay.com
 DOMAIN-SUFFIX , 360buyimg.com
@@ -177,6 +188,7 @@ DOMAIN-KEYWORD , 10010
 DOMAIN-KEYWORD , chinaunicom
 
 # Meituan
+USER-AGENT     , %E7%BE%8E%E5%9B%A2*
 DOMAIN-SUFFIX  , sankuai.com
 DOMAIN-SUFFIX  , meituan.com
 DOMAIN-SUFFIX  , meituan.net
@@ -192,6 +204,7 @@ DOMAIN-SUFFIX  , c-ctrip.com
 DOMAIN-KEYWORD , ctrip
 
 # Other
+USER-AGENT    , AMapiPhone*
 DOMAIN-SUFFIX , ele.me
 DOMAIN-SUFFIX , bosc.cn
 DOMAIN-SUFFIX , xsx.net
@@ -212,6 +225,7 @@ DOMAIN-SUFFIX , getui.com
 DOMAIN-SUFFIX , fenbi.com
 DOMAIN-SUFFIX , ip138.com
 DOMAIN-SUFFIX , ddxq.mobi
+DOMAIN-SUFFIX , cpatrk.net
 DOMAIN-SUFFIX , ddimg.mobi
 DOMAIN-SUFFIX , bytecdn.cn
 DOMAIN-SUFFIX , yximgs.com
@@ -229,6 +243,8 @@ DOMAIN-SUFFIX , douyin.com
 DOMAIN-SUFFIX , tiktok.com
 DOMAIN-SUFFIX , ssscdn.com
 DOMAIN-SUFFIX , dutils.com
+DOMAIN-SUFFIX , meiqia.com
+DOMAIN-SUFFIX , bootcss.com
 DOMAIN-SUFFIX , icbc.com.cn
 DOMAIN-SUFFIX , spdb.com.cn
 DOMAIN-SUFFIX , qiniudn.com
@@ -237,6 +253,8 @@ DOMAIN-SUFFIX , eshimin.com
 DOMAIN-SUFFIX , toutiao.com
 DOMAIN-SUFFIX , huoshan.com
 DOMAIN-SUFFIX , gifshow.com
+DOMAIN-SUFFIX , autonavi.com
+DOMAIN-SUFFIX , eshiyun.info
 DOMAIN-SUFFIX , bankcomm.com
 DOMAIN-SUFFIX , miaozhen.com
 DOMAIN-SUFFIX , doubanio.com
@@ -245,6 +263,8 @@ DOMAIN-SUFFIX , kuaishou.com
 DOMAIN-SUFFIX , youai123.com
 DOMAIN-SUFFIX , elemecdn.com
 DOMAIN-SUFFIX , iesdouyin.com
+DOMAIN-SUFFIX , manmanbuy.com
+DOMAIN-SUFFIX , globalsign.com
 DOMAIN-SUFFIX , ctobsnssdk.com
 DOMAIN-SUFFIX , ampproject.com
 DOMAIN-SUFFIX , ampproject.org
