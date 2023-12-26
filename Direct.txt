@@ -263,9 +263,6 @@ DOMAIN-SUFFIX , ampproject.com
 DOMAIN-SUFFIX , ampproject.org
 DOMAIN-SUFFIX , ixiguavideo.com
 
-# DOH
-PROTOCOL , DOH
-
 # PrivateIP
 IP-CIDR6 , fd00::/8       , no-resolve
 IP-CIDR  , 10.0.0.0/8     , no-resolve
