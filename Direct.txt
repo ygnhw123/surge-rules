@@ -49,6 +49,8 @@ DOMAIN-SUFFIX  , alipayobjects.com
 
 # Tencent
 DOMAIN-SUFFIX  , qq.com
+DOMAIN-SUFFIX  , dns.pub
+DOMAIN-SUFFIX  , doh.pub
 DOMAIN-SUFFIX  , qlogo.cn
 DOMAIN-SUFFIX  , gtimg.com
 DOMAIN-SUFFIX  , dnspod.com
