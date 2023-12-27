@@ -11,11 +11,11 @@ DOMAIN-SUFFIX  , appstore.com
 DOMAIN-SUFFIX  , mzstatic.com
 DOMAIN-SUFFIX  , cdn-apple.com
 DOMAIN-SUFFIX  , apple-mapkit.com
-// DOMAIN-KEYWORD , apple
-// DOMAIN-KEYWORD , itunes
-// DOMAIN-KEYWORD , icloud
-// DOMAIN-KEYWORD , appstore
-// DOMAIN-KEYWORD , mzstatic
+DOMAIN-KEYWORD , apple
+DOMAIN-KEYWORD , itunes
+DOMAIN-KEYWORD , icloud
+DOMAIN-KEYWORD , appstore
+DOMAIN-KEYWORD , mzstatic
 
 # Alibaba
 DOMAIN-SUFFIX  , tanx.com
@@ -42,10 +42,10 @@ DOMAIN-SUFFIX  , alipaylog.com
 DOMAIN-SUFFIX  , taobaocdn.com
 DOMAIN-SUFFIX  , alibabacloud.com
 DOMAIN-SUFFIX  , alipayobjects.com
-// DOMAIN-KEYWORD , tmall
-// DOMAIN-KEYWORD , taobao
-// DOMAIN-KEYWORD , alibaba
-// DOMAIN-KEYWORD , dingding
+DOMAIN-KEYWORD , tmall
+DOMAIN-KEYWORD , taobao
+DOMAIN-KEYWORD , alibaba
+DOMAIN-KEYWORD , dingding
 
 # Tencent
 DOMAIN-SUFFIX  , qq.com
@@ -66,11 +66,11 @@ DOMAIN-SUFFIX  , myqcloud.com
 DOMAIN-SUFFIX  , qcloudcdn.com
 DOMAIN-SUFFIX  , servicewechat.com
 DOMAIN-SUFFIX  , tencent-cloud.net
-// DOMAIN-KEYWORD , dnspod
-// DOMAIN-KEYWORD , qcloud
-// DOMAIN-KEYWORD , weixin
-// DOMAIN-KEYWORD , wechat
-// DOMAIN-KEYWORD , tencent
+DOMAIN-KEYWORD , dnspod
+DOMAIN-KEYWORD , qcloud
+DOMAIN-KEYWORD , weixin
+DOMAIN-KEYWORD , wechat
+DOMAIN-KEYWORD , tencent
 
 # Baidu
 DOMAIN-SUFFIX  , baidu.com
@@ -81,7 +81,7 @@ DOMAIN-SUFFIX  , shifen.com
 DOMAIN-SUFFIX  , baixing.com
 DOMAIN-SUFFIX  , bdstatic.com
 DOMAIN-SUFFIX  , tiebaimg.com
-// DOMAIN-KEYWORD , baidu
+DOMAIN-KEYWORD , baidu
 
 # Netease
 DOMAIN-SUFFIX  , 163.com
@@ -91,8 +91,8 @@ DOMAIN-SUFFIX  , 127.net
 DOMAIN-SUFFIX  , youdao.com
 DOMAIN-SUFFIX  , netease.com
 DOMAIN-SUFFIX  , ydstatic.com
-// DOMAIN-KEYWORD , youdao
-// DOMAIN-KEYWORD , netease
+DOMAIN-KEYWORD , youdao
+DOMAIN-KEYWORD , netease
 
 # Xiaomi
 DOMAIN-SUFFIX  , mi.com
@@ -101,15 +101,15 @@ DOMAIN-SUFFIX  , miui.com
 DOMAIN-SUFFIX  , miui.net
 DOMAIN-SUFFIX  , xiaomi.com
 DOMAIN-SUFFIX  , xiaomi.net
-// DOMAIN-KEYWORD , miui
-// DOMAIN-KEYWORD , xiaomi
+DOMAIN-KEYWORD , miui
+DOMAIN-KEYWORD , xiaomi
 
 # Acfun
 DOMAIN-SUFFIX  , acfun.cn
 DOMAIN-SUFFIX  , acfun.com
 DOMAIN-SUFFIX  , xiatou.com
 DOMAIN-SUFFIX  , aixifan.com
-// DOMAIN-KEYWORD , acfun
+DOMAIN-KEYWORD , acfun
 
 # Bilibili
 DOMAIN-SUFFIX  , hdslb.com
@@ -121,12 +121,12 @@ DOMAIN-SUFFIX  , biligame.com
 DOMAIN-SUFFIX  , biligame.net
 DOMAIN-SUFFIX  , bilivideo.com
 DOMAIN-SUFFIX  , acgvideo.com
-// DOMAIN-KEYWORD , bilibili
+DOMAIN-KEYWORD , bilibili
 
 # Zhihu
 DOMAIN-SUFFIX  , zhihu.com
 DOMAIN-SUFFIX  , zhimg.com
-// DOMAIN-KEYWORD , zhihu
+DOMAIN-KEYWORD , zhihu
 
 # JD
 DOMAIN-SUFFIX , jd.com
@@ -136,7 +136,7 @@ DOMAIN-SUFFIX , 360buyimg.com
 # PDD
 DOMAIN-SUFFIX  , pddpic.com
 DOMAIN-SUFFIX  , pinduoduo.com
-// DOMAIN-KEYWORD , pinduoduo
+DOMAIN-KEYWORD , pinduoduo
 
 # Weibo
 DOMAIN-SUFFIX  , weico.cc
@@ -147,8 +147,8 @@ DOMAIN-SUFFIX  , sinaimg.cn
 DOMAIN-SUFFIX  , sinaimg.com
 DOMAIN-SUFFIX  , sinaapp.com
 DOMAIN-SUFFIX  , weibocdn.com
-// DOMAIN-KEYWORD , sina
-// DOMAIN-KEYWORD , weibo
+DOMAIN-KEYWORD , sina
+DOMAIN-KEYWORD , weibo
 
 # CMCC
 DOMAIN-SUFFIX  , 10086.cn
@@ -158,10 +158,10 @@ DOMAIN-SUFFIX  , komect.com
 DOMAIN-SUFFIX  , miguvideo.com
 DOMAIN-SUFFIX  , cmpassport.com
 DOMAIN-SUFFIX  , chinamobile.com
-// DOMAIN-KEYWORD , migu
-// DOMAIN-KEYWORD , cmcc
-// DOMAIN-KEYWORD , 10086
-// DOMAIN-KEYWORD , chinamobile
+DOMAIN-KEYWORD , migu
+DOMAIN-KEYWORD , cmcc
+DOMAIN-KEYWORD , 10086
+DOMAIN-KEYWORD , chinamobile
 
 # CT
 DOMAIN-SUFFIX  , 189.cn
@@ -171,17 +171,17 @@ DOMAIN-SUFFIX  , ctyun.cn
 DOMAIN-SUFFIX  , tv189.com
 DOMAIN-SUFFIX  , ctyun.com
 DOMAIN-SUFFIX  , ctclouds.com
-// DOMAIN-KEYWORD , tv189
-// DOMAIN-KEYWORD , ctyun
-// DOMAIN-KEYWORD , ctclouds
+DOMAIN-KEYWORD , tv189
+DOMAIN-KEYWORD , ctyun
+DOMAIN-KEYWORD , ctclouds
 
 # CU
 DOMAIN-SUFFIX  , mob.com
 DOMAIN-SUFFIX  , 10010.cn
 DOMAIN-SUFFIX  , 10010.com
 DOMAIN-SUFFIX  , chinaunicom.cn
-// DOMAIN-KEYWORD , 10010
-// DOMAIN-KEYWORD , chinaunicom
+DOMAIN-KEYWORD , 10010
+DOMAIN-KEYWORD , chinaunicom
 
 # Meituan
 DOMAIN-SUFFIX  , sankuai.com
@@ -189,14 +189,14 @@ DOMAIN-SUFFIX  , meituan.com
 DOMAIN-SUFFIX  , meituan.net
 DOMAIN-SUFFIX  , dianping.com
 DOMAIN-SUFFIX  , dianping.net
-// DOMAIN-KEYWORD , meituan
-// DOMAIN-KEYWORD , dianping
+DOMAIN-KEYWORD , meituan
+DOMAIN-KEYWORD , dianping
 
 # Ctrip
 DOMAIN-SUFFIX  , ctrip.com
 DOMAIN-SUFFIX  , tripcdn.cn
 DOMAIN-SUFFIX  , c-ctrip.com
-// DOMAIN-KEYWORD , ctrip
+DOMAIN-KEYWORD , ctrip
 
 # Other
 DOMAIN-SUFFIX , ele.me
