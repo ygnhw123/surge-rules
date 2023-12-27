@@ -1,11 +1,3 @@
-# TLD
-DOMAIN-SUFFIX , hk
-DOMAIN-SUFFIX , tw
-DOMAIN-SUFFIX , sg
-DOMAIN-SUFFIX , jp
-DOMAIN-SUFFIX , us
-DOMAIN-SUFFIX , eu
-
 # Google
 DOMAIN-SUFFIX  , g.co
 DOMAIN-SUFFIX  , yt.be
@@ -35,9 +27,9 @@ DOMAIN-SUFFIX  , googleapis.com
 DOMAIN-SUFFIX  , googlevideo.com
 DOMAIN-SUFFIX  , googlesyndication.com
 DOMAIN-SUFFIX  , googleusercontent.com
-DOMAIN-KEYWORD , gmail
-DOMAIN-KEYWORD , google
-DOMAIN-KEYWORD , youtube
+// DOMAIN-KEYWORD , gmail
+// DOMAIN-KEYWORD , google
+// DOMAIN-KEYWORD , youtube
 
 # Microsoft
 DOMAIN-SUFFIX  , gfx.ms
@@ -75,12 +67,12 @@ DOMAIN-SUFFIX  , skypeassets.com
 DOMAIN-SUFFIX  , visualstudio.com
 DOMAIN-SUFFIX  , windowsupdate.com
 DOMAIN-SUFFIX  , sharepointonline.com
-DOMAIN-KEYWORD , azure
-DOMAIN-KEYWORD , office
-DOMAIN-KEYWORD , outlook
-DOMAIN-KEYWORD , onedrive
-DOMAIN-KEYWORD , microsoft
-DOMAIN-KEYWORD , visualstudio
+// DOMAIN-KEYWORD , azure
+// DOMAIN-KEYWORD , office
+// DOMAIN-KEYWORD , outlook
+// DOMAIN-KEYWORD , onedrive
+// DOMAIN-KEYWORD , microsoft
+// DOMAIN-KEYWORD , visualstudio
 
 # Paypal
 DOMAIN-SUFFIX  , tapad.com
@@ -88,14 +80,14 @@ DOMAIN-SUFFIX  , paypal.com
 DOMAIN-SUFFIX  , ensighten.com
 DOMAIN-SUFFIX  , myvisualiq.net
 DOMAIN-SUFFIX  , paypalobjects.com
-DOMAIN-KEYWORD , paypal
+// DOMAIN-KEYWORD , paypal
 
 # Amazon
 DOMAIN-SUFFIX  , amazonaws.com
 DOMAIN-SUFFIX  , cloudfront.com
 DOMAIN-SUFFIX  , cloudfront.net
-DOMAIN-KEYWORD , amazon
-DOMAIN-KEYWORD , cloudfront
+// DOMAIN-KEYWORD , amazon
+// DOMAIN-KEYWORD , cloudfront
 
 # Facebook
 DOMAIN-SUFFIX  , fb.me
@@ -104,19 +96,19 @@ DOMAIN-SUFFIX  , fbcdn.com
 DOMAIN-SUFFIX  , fbcdn.net
 DOMAIN-SUFFIX  , facebook.com
 DOMAIN-SUFFIX  , instagram.com
-DOMAIN-KEYWORD , facebook
-DOMAIN-KEYWORD , instagram
+// DOMAIN-KEYWORD , facebook
+// DOMAIN-KEYWORD , instagram
 
 # Twitter
 DOMAIN-SUFFIX  , t.co
 DOMAIN-SUFFIX  , twimg.com
 DOMAIN-SUFFIX  , twitter.com
-DOMAIN-KEYWORD , twitter
+// DOMAIN-KEYWORD , twitter
 
 # Github
 DOMAIN-SUFFIX  , github.com
 DOMAIN-SUFFIX  , githubusercontent.com
-DOMAIN-KEYWORD , github
+// DOMAIN-KEYWORD , github
 
 # Telegram
 IP-CIDR        , 91.108.4.0/22        , no-resolve
@@ -135,14 +127,14 @@ DOMAIN-SUFFIX  , telegram.org
 DOMAIN-SUFFIX  , telegram.com
 DOMAIN-SUFFIX  , telegram.space
 DOMAIN-SUFFIX  , telegramdownload.com
-DOMAIN-KEYWORD , telegram
+// DOMAIN-KEYWORD , telegram
 
 # Whatsapp
 DOMAIN-SUFFIX  , whatsapp.net
 DOMAIN-SUFFIX  , whatsapp.org
 DOMAIN-SUFFIX  , whatsapp.com
 DOMAIN-SUFFIX  , whatsapp.space
-DOMAIN-KEYWORD , whatsapp
+// DOMAIN-KEYWORD , whatsapp
 
 # Akamai
 DOMAIN-SUFFIX  , akadns.net
@@ -151,57 +143,57 @@ DOMAIN-SUFFIX  , akamai.net
 DOMAIN-SUFFIX  , akamaihd.net
 DOMAIN-SUFFIX  , akamaized.net
 DOMAIN-SUFFIX  , akamai-staging.net
-DOMAIN-KEYWORD , akamai
+// DOMAIN-KEYWORD , akamai
 
 # Cloudflare
 DOMAIN-SUFFIX  , cloudflare.com
 DOMAIN-SUFFIX  , cloudflare-dns.com
-DOMAIN-KEYWORD , cloudflare
+// DOMAIN-KEYWORD , cloudflare
 
 # Sourceforge
 DOMAIN-SUFFIX  , sourceforge.com
 DOMAIN-SUFFIX  , sourceforge.net
-DOMAIN-KEYWORD , sourveforge
+// DOMAIN-KEYWORD , sourveforge
 
 # Wikepedia
 DOMAIN-SUFFIX  , wikipedia.org
 DOMAIN-SUFFIX  , wikimedia.org
-DOMAIN-KEYWORD , wiki
+// DOMAIN-KEYWORD , wiki
 
 # Quora
 DOMAIN-SUFFIX  , quora.net
 DOMAIN-SUFFIX  , quora.com
 DOMAIN-SUFFIX  , quoracdn.net
 DOMAIN-SUFFIX  , quoracdn.com
-DOMAIN-KEYWORD , quora
+// DOMAIN-KEYWORD , quora
 
 # Stackoverflow
 DOMAIN-SUFFIX  , sstatic.net
-DOMAIN-KEYWORD , stackoverflow
+// DOMAIN-KEYWORD , stackoverflow
 
 # Dropbox
 DOMAIN-SUFFIX  , dropbox.com
 DOMAIN-SUFFIX  , dropboxstatic.com
 DOMAIN-SUFFIX  , dropboxforum.com
-DOMAIN-KEYWORD , dropbox
+// DOMAIN-KEYWORD , dropbox
 
 # Nextcloud
 DOMAIN-SUFFIX  , nextcloud.org
 DOMAIN-SUFFIX  , nextcloud.com
-DOMAIN-KEYWORD , nextcloud
+// DOMAIN-KEYWORD , nextcloud
 
 # Firefox
 DOMAIN-SUFFIX  , firefox.com
 DOMAIN-SUFFIX  , mozilla.com
-DOMAIN-KEYWORD , firefox
-DOMAIN-KEYWORD , mozilla
+// DOMAIN-KEYWORD , firefox
+// DOMAIN-KEYWORD , mozilla
 
 # Battle
 DOMAIN-SUFFIX  , battle.com
 DOMAIN-SUFFIX  , battle.net
 DOMAIN-SUFFIX  , blizzard.com
 DOMAIN-SUFFIX  , blzstatic.com
-DOMAIN-KEYWORD , blizzard
+// DOMAIN-KEYWORD , blizzard
 
 # Steam
 DOMAIN-SUFFIX  , gvt1.com
@@ -210,7 +202,7 @@ DOMAIN-SUFFIX  , steam-chat.com
 DOMAIN-SUFFIX  , steamstatic.com
 DOMAIN-SUFFIX  , steampowered.com
 DOMAIN-SUFFIX  , steamcontent.com
-DOMAIN-KEYWORD , steam
+// DOMAIN-KEYWORD , steam
 
 # Other
 DOMAIN-SUFFIX , fast.com
@@ -235,3 +227,4 @@ DOMAIN-SUFFIX , doubleclick.net
 DOMAIN-SUFFIX , letsencrypt.org
 DOMAIN-SUFFIX , adblockplus.org
 DOMAIN-SUFFIX , bettertouchtool.net
+DOMAIN-SUFFIX , surge-activation.com
