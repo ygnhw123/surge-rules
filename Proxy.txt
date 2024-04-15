@@ -183,6 +183,7 @@ DOMAIN-SUFFIX , digicert.com
 DOMAIN-SUFFIX , namesilo.com
 DOMAIN-SUFFIX , alfredapp.com
 DOMAIN-SUFFIX , speedtest.net
+DOMAIN-SUFFIX , darkreader.org
 DOMAIN-SUFFIX , iliuyuyang.com
 DOMAIN-SUFFIX , adguard-dns.com
 DOMAIN-SUFFIX , doubleclick.net
