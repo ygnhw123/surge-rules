@@ -170,6 +170,7 @@ DOMAIN-SUFFIX , steamcontent.com
 DOMAIN-SUFFIX , fast.com
 DOMAIN-SUFFIX , v2ex.com
 DOMAIN-SUFFIX , vultr.com
+DOMAIN-SUFFIX , zxcs.info
 DOMAIN-SUFFIX , nginx.org
 DOMAIN-SUFFIX , trello.com
 DOMAIN-SUFFIX , medium.com
@@ -189,5 +190,6 @@ DOMAIN-SUFFIX , adguard-dns.com
 DOMAIN-SUFFIX , doubleclick.net
 DOMAIN-SUFFIX , letsencrypt.org
 DOMAIN-SUFFIX , adblockplus.org
+DOMAIN-SUFFIX , tampermonkey.net
 DOMAIN-SUFFIX , bettertouchtool.net
 DOMAIN-SUFFIX , surge-activation.com
