@@ -183,6 +183,7 @@ DOMAIN-SUFFIX , getui.com
 DOMAIN-SUFFIX , fenbi.com
 DOMAIN-SUFFIX , ip138.com
 DOMAIN-SUFFIX , ddxq.mobi
+DOMAIN-SUFFIX , hmzhtc.com
 DOMAIN-SUFFIX , cpatrk.net
 DOMAIN-SUFFIX , ddimg.mobi
 DOMAIN-SUFFIX , bytecdn.cn
@@ -227,3 +228,9 @@ DOMAIN-SUFFIX , ctobsnssdk.com
 DOMAIN-SUFFIX , ampproject.com
 DOMAIN-SUFFIX , ampproject.org
 DOMAIN-SUFFIX , ixiguavideo.com
+
+# PrivateIP
+IP-CIDR6 , fd00::/8
+IP-CIDR  , 10.0.0.0/8
+IP-CIDR  , 172.16.0.0/12
+IP-CIDR  , 192.168.0.0/16
